@@ -53,26 +53,6 @@ To get started with this project, follow the steps below:
 
 Here is a screenshot of the real-time chat application in action:
 
-![Chat Application Screenshot](images/output.png)
+<img width="406" alt="Image" src="https://github.com/user-attachments/assets/f434ec7a-77f7-4db7-8fdb-c76552df552a" />
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch:
-    ```sh
-    git checkout -b feature/your-feature-name
-    ```
-3. Commit your changes:
-    ```sh
-    git commit -m 'Add your commit message'
-    ```
-4. Push to the branch:
-    ```sh
-    git push origin feature/your-feature-name
-    ```
-5. Create a pull request.
-
-# Output:
 
